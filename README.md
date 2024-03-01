@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **www.kickresume.com/cv/punit-kangra-devops/**
 
-- 📄 Know about my experiences [www.kickresume.com/cv/ZpyMzp/](www.kickresume.com/cv/ZpyMzp/)
+- 📄 Know about my experiences (www.kickresume.com/cv/ZpyMzp/)
 
 - ⚡ Fun fact **I love learning new tech!**
 
