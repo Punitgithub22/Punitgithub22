@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitgithub22" alt="punitgithub22" /></a> </p>
 
 
-- 🔭 I’m currently working on **webflow**
+- 🔭 I’m currently working on **webflow, Figma**
 
 - 🌱 I’m currently learning **aws devops**
 
@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Open Source Project**
 
-- 💬 Ask me about **devops, fullstack development, aws cloud, web design**
+- 💬 Ask me about **devops, aws cloud, web development, web design**
 
 - 📫 How to reach me **www.kickresume.com/cv/punit-kangra-devops/**
 
@@ -28,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/punit kangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punit kangra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding bulb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding bulb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/punit-kangra-devops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punit kangra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLvC8Kwdno9caTuab1sSVvw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding bulb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
